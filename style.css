@@ -1,39 +1,39 @@
 .box{
-    width: 800px;
-    margin: auto;
-    background-color: azure;
-    padding: 30px;
+width: 700;
+margin: auto;
+background-color: rgb(224, 241, 255);
+padding: 30px;
 }
-body{
-    background-image: url("https://funik.ru/wp-content/uploads/2019/07/c56b617739aff3a8530c-2.jpg");
+.body{
+    background-image: url("https://th.bing.com/th/id/OIP.-1welzAyGWhAVuHANvjlVQHaFj?pid=ImgDet&w=660&h=495&rs=1");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
 }
 .menu{
-    background-color: bisque;
-    line-height: 30px;
+    background-color: rgb(188, 225, 255);
+    line-height: 50px;
 }
 .menu a{
     text-decoration: none;
-    color: orange;
-    font-size: 24px;
-    padding: 10px 15px;
-    display:  inline-block;
+    color: rgb(94, 169, 255);
+    font-size: 25px;
+    padding: 10px 20px;
+    display: inline-block;
 }
 .menu a:hover{
-    color: pink;
-    background-color: yellow;
-    border-radius: 15px 0px 15px 0px;
+color: aqua;
+background-color: rgb(212, 252, 255);
+border-radius: 20px;
 }
 .link a{
-    color: red;
+    color: rgb(46, 178, 255);
 }
 .link a:hover{
-    color: blueviolet;
+    color: rgb(25, 86, 255);
 }
-.link {
-text-align: right;
+.link{
+    text-align: right;
 }
 .text{
     text-align: justify;
