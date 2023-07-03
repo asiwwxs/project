@@ -1,11 +1,11 @@
 .box{
-width: 700;
+width: 700px;
 margin: auto;
 background-color: rgb(224, 241, 255);
 padding: 30px;
 }
-.body{
-    background-image: url("https://th.bing.com/th/id/OIP.-1welzAyGWhAVuHANvjlVQHaFj?pid=ImgDet&w=660&h=495&rs=1");
+body{
+    background-image: url("https://i.pinimg.com/originals/40/02/64/400264de4ca8fd8bbf12d905c622bfba.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -37,4 +37,9 @@ border-radius: 20px;
 }
 .text{
     text-align: justify;
+}
+.container img{
+    float: left;
+    width: 200px;
+    margin-right: 20px;
 }
